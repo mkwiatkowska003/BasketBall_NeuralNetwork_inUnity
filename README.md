@@ -1,6 +1,17 @@
-# Basket Ball _ Neural Network in Unity3D
+# Basket Ball: Feedforward Neural Network in Unity
 
-The main goal of the project was to create a neural network algorithm in <b> C# </b> that could be used for throwing balls to basket with the highest precision.The project is adapted to <b> Unity3D </b>, but the neural network algorithm has been written regardless of  requirements of the <b> Unity </b> platform - the engine was used only for simple simulation, testing and verification. 
+# Introduction 
+The main goal of the project was to create a neural network algorithm in <b> C# </b> that could be used for throwing balls to basket with the highest precision.The project is adapted to <b> Unity3D </b>, but the neural network algorithm has been written regardless of  requirements of the <b> Unity </b> platform - the engine was used only for simple simulation, testing and verification.  
+
+# Getting Started
+To start the application, open the project from Unity environment and provide the location of the folder downloaded from this site (go to File->Open Project, then select a Unity project's folder). Then, using Unity's environment, go to the Assets->Scene and choose the "SampleScene.Unity". After these steps, the following scene should appear on your screen. 
+
+![](https://raw.githubusercontent.com/rhoninn11/Basket_nn/master/5.PNG)
+
+# Build and Test
+You can click on the "Run" button to start testing, or build it and test as the standalone desktop application. 
+
+# Guide
 
 ## User Interface 
 
@@ -13,8 +24,6 @@ There are three buttons called by names according to methods they are provided f
 * <b> <i> Spawn Throwers </b> </i> - creates a simple cube with a random position and starts throwing 27 balls per Time in random directions with the distance between each other according to Deviation Factor,
 * <b> <i> Populate new neural network </b> </i> - starts throwing balls to basket using naural network,
 * <b> <i> Apply new time scale </b> </i> - sets the new Time Scale if the value of Slider is changed.
-
-![](https://raw.githubusercontent.com/rhoninn11/Basket_nn/master/5.PNG)
 
 ## Camera Control
 
