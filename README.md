@@ -3,8 +3,7 @@ The main goal of the project was to create a neural network algorithm in <b> C# 
 
 # Getting Started
 To start the application, open the project from Unity environment and provide the location of the folder downloaded from this site (go to File->Open Project, then select a Unity project's folder). Then, using Unity's environment, go to the Assets->Scene and choose the "SampleScene.Unity". After these steps, the following scene should appear on your screen. 
-
-![](https://raw.githubusercontent.com/rhoninn11/Basket_nn/master/5.PNG)
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/rhoninn11/Basket_nn/master/5.PNG" /></div>
 
 # Build and Test
 You can click on the "Run" button to start testing, or build it and test as the standalone desktop application. 
