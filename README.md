@@ -2,7 +2,7 @@
 The main goal of the project was to create a neural network algorithm in <b> C# </b> that could be used for throwing balls to basket with the highest precision.The project is adapted to <b> Unity3D </b>, but the neural network algorithm has been written regardless of  requirements of the <b> Unity </b> platform - the engine was used only for simple simulation, testing and verification.  
 
 # Getting Started
-To start the application, open the project from Unity environment and provide the location of the folder downloaded from this site (go to File->Open Project, then select a Unity project's folder). Then, using Unity's environment, go to the Assets->Scene and choose the "SampleScene.Unity". After these steps, the following scene should appear on your screen. 
+To start the application, open the project from Unity environment and provide the location of the folder downloaded from this site (go to File->Open Project, then select a Unity project's folder). Then, using the Unity environment go to the <i> Assets->Scene </i> and choose the "SampleScene.Unity". After these steps, the following scene should appear on your screen. 
 <img align="center" src="https://raw.githubusercontent.com/rhoninn11/Basket_nn/master/5.PNG"/>
 
 # Build and Test
