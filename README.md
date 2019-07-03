@@ -1,5 +1,3 @@
-# Basket Ball: Feedforward Neural Network in Unity
-
 # Introduction 
 The main goal of the project was to create a neural network algorithm in <b> C# </b> that could be used for throwing balls to basket with the highest precision.The project is adapted to <b> Unity3D </b>, but the neural network algorithm has been written regardless of  requirements of the <b> Unity </b> platform - the engine was used only for simple simulation, testing and verification.  
 
